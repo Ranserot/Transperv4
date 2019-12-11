@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185189161176",
+    "firebase_url": "https://transper-9355b.firebaseio.com",
+    "project_id": "transper-9355b",
+    "storage_bucket": "transper-9355b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185189161176:android:d5032df15609139bd79fad",
+        "android_client_info": {
+          "package_name": "cl.ranserot.transper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185189161176-f3attjvq41aks5osfv5m44phvipt94i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.ranserot.transper",
+            "certificate_hash": "790f11cf9290e4f8dda7829b3884048c998a3537"
+          }
+        },
+        {
+          "client_id": "185189161176-08j5r57d0t073jld1e9kmj7icn76p7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMABFhYWvkAoUAMP2TFl7iR-t-ouc61E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185189161176-08j5r57d0t073jld1e9kmj7icn76p7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

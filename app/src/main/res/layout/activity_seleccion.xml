@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/seleccion"
+    tools:context=".seleccion">
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="264dp"
+        android:layout_height="81dp"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="224dp"
+        android:layout_marginEnd="62dp"
+        android:backgroundTint="@color/mapbox_blue"
+        android:text="Conductor"
+        android:textColor="#ADE9E1E1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="263dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="86dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="264dp"
+        android:backgroundTint="@color/mapbox_blue"
+        android:text="CLIENTE"
+        android:textColor="#97FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn2" />
+</android.support.constraint.ConstraintLayout>
